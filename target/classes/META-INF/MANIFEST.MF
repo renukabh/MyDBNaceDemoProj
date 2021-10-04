@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: renuka.h.bhagwat
+Build-Jdk: 15.0.2
+Implementation-Title: NaceDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.db.clm
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/NaceDemo/
+Created-By: Maven Integration for Eclipse
+
